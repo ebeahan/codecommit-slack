@@ -1,0 +1,5 @@
+*.egg-info
+./terraform/*.tfvars
+./terraform/.terraform
+aws_lambda_libs/*
+publish/*
